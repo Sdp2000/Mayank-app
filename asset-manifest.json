@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mayank-app/static/css/main.c0f8a709.css",
+    "main.js": "/Mayank-app/static/js/main.c8ea246c.js",
+    "static/js/787.b19480f2.chunk.js": "/Mayank-app/static/js/787.b19480f2.chunk.js",
+    "static/media/auux1-ps41m.svg": "/Mayank-app/static/media/auux1-ps41m.3b584a203af20993b3299ee3c1cc727d.svg",
+    "index.html": "/Mayank-app/index.html",
+    "main.c0f8a709.css.map": "/Mayank-app/static/css/main.c0f8a709.css.map",
+    "main.c8ea246c.js.map": "/Mayank-app/static/js/main.c8ea246c.js.map",
+    "787.b19480f2.chunk.js.map": "/Mayank-app/static/js/787.b19480f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f8a709.css",
+    "static/js/main.c8ea246c.js"
+  ]
+}
