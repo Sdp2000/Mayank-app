@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <marquee direction="left" scrollAmount="90">
+        <marquee direction="left" scrollAmount="50">
           <img src={logo} className="App-logo" alt="logo" />
           <p style={{ marginTop: "50px" }}>
             Mayank Chutiya
@@ -18,7 +18,7 @@ function App() {
             Mayank Bhosdiwala
           </p>
         </div>
-        <marquee direction="right" scrollAmount="90">
+        <marquee direction="right" scrollAmount="50">
           <img src={logo} className="App-logo" alt="logo" />
           <p style={{ marginTop: "50px" }}>
             Mayank Jhaatu
